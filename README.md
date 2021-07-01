@@ -15,7 +15,7 @@
 </p><br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sberrich&layout=compact&theme=highcontrast" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sberrich&layout=compact&theme=highcontrast" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sberrichi&layout=compact&theme=highcontrast" />
 </p>
 <br/><br/><br/><br/>
 
