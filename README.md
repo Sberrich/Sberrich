@@ -25,3 +25,9 @@ front-end Developer at startgate</a>.
 <br/>
 <br/>
 
+<br/>
+<br/>
+
+<h2 align="center">
+<img align='center' src='https://github-readme-stats.vercel.app/api?username=sberrich&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=buefy' alt='Samir Berrichi github stats'>
+</h2>
