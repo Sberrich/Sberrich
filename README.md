@@ -9,9 +9,6 @@
 
 </h2>
 
-<br/>
-<br/>
-
 <h5 align="center">
 <samp>
 Student at <a href="https://1337.ma/" target="_blank">1337</a>.
