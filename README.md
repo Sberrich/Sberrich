@@ -16,7 +16,7 @@
 <samp>
 Student at <a href="https://1337.ma/" target="_blank">1337</a>.
 <br/>
-front-end Developer at <a href="https://github.com/broadseg" target="_blank">BroadSeg</a>.
+front-end Developer at startgate</a>.
 <br/>
 
 </samp>
