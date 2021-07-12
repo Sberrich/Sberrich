@@ -31,9 +31,7 @@ front-end Developer at startgate</a>.
 <a  href="https://www.linkedin.com/in/samirberrichi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a  href="https://instagram.com/berrichi_samir" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a  href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-  
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=sberrich)](https://github.com/mohouyizme/1337-readme)
-  
+
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/berrichisamir?style=social)](https://twitter.com/berrichisamir)
   
 [![GitHub Sberrich](https://img.shields.io/github/followers/Ysrbolles?label=follow&style=social)](https://github.com/Sberrich)
