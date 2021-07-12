@@ -1,5 +1,7 @@
-<h2 align="center"> <b>Hey there 👋 I'm <a href="https://www.linkedin.com/in/samirberrichi/" target="_blank" >Samir Berrichi</a>!</b></h2>
-
+<h2 align="center"> <b>Hey there 👋 I'm <a href="https://www.linkedin.com/in/samirberrichi/" target="_blank" >Samir Berrichi</a></b></h2>
+  
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=sberrich)](https://github.com/mohouyizme/1337-readme)
+  
 <h5 align="center">
 <samp>
 Welcome to my page!<br/>
