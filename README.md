@@ -1,6 +1,6 @@
 <h2 align="center"> <b>Hey there 👋 I'm <a href="https://www.linkedin.com/in/samirberrichi/" target="_blank" >Samir Berrichi</a></b></h2>
   
-
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=sberrich)](https://github.com/mohouyizme/1337-readme)
   
 <h5 align="center">
 <samp>
@@ -34,7 +34,7 @@ front-end Developer at startgate</a>.
 <a  href="https://instagram.com/berrichi_samir" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a  href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=sberrich)](https://github.com/mohouyizme/1337-readme)
+
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/berrichisamir?style=social)](https://twitter.com/berrichisamir)
   
