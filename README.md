@@ -7,7 +7,7 @@
 Welcome to my page!<br/>
 I'm Samir , Front-End developer<br/>
 Student at <a href="https://1337.ma/" target="_blank">1337 Coding school</a>.<br/>
-front-end Developer </a>.
+ </a>.
 <br/>
   <h3>Things I code with</h3>
 <p>
@@ -38,9 +38,9 @@ front-end Developer </a>.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/berrichisamir?style=social)](https://twitter.com/berrichisamir)
   
-[![GitHub Sberrich](https://img.shields.io/github/followers/Ysrbolles?label=follow&style=social)](https://github.com/Sberrich)
+[![GitHub Sberrich](https://img.shields.io/github/followers/Sberrich?label=follow&style=social)](https://github.com/Sberrich)
   
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=sberrich)](https://github.com/mohouyizme/1337-readme)
+
   
 </h2>
 <br/>
