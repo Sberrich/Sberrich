@@ -7,7 +7,7 @@
 Welcome to my page!<br/>
 I'm Samir , Front-End developer<br/>
 Student at <a href="https://1337.ma/" target="_blank">1337 Coding school</a>.<br/>
-front-end Developer at startgate</a>.
+front-end Developer </a>.
 <br/>
   <h3>Things I code with</h3>
 <p>
