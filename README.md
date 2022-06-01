@@ -20,7 +20,6 @@ Welcome to my page!<br/>
 </p>
 - 🚀 &nbsp; On a road to becoming a Full Stack Developer.
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sberrich).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me 
   <h2 align="center">
