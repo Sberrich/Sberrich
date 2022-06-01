@@ -1,11 +1,11 @@
 <h2 align="center"> <b>Hey there 👋 I'm <a href="https://www.linkedin.com/in/samirberrichi/" target="_blank" >Samir Berrichi</a></b></h2>
-  
-
-  
 <h5 align="center">
+  ### Glad that you are here 
 <samp>
 Welcome to my page!<br/>
-I'm Samir , Front-End developer<br/>
+### I am a <b>Front-End Developer 🕸️</b> <br/>
+  <!--& Computer Science Student 🎓 at [1337 Coding School](1337.ma) 🏛-->. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+<br/>
 Student at <a href="https://1337.ma/" target="_blank">1337 Coding school</a>.<br/>
  </a>.
 <br/>
