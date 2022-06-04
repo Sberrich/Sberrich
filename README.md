@@ -14,8 +14,6 @@
 [![sberrich's 42 stats](https://badge.mediaplus.ma/darkblue/sberrich)](https://github.com/oakoudad/badge42)
     
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sberrich&show_icons=true&theme=dracula" />
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sberrich&layout=compact" />
 
 
 
