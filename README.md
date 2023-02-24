@@ -1,5 +1,6 @@
 ## <h2 align="center">
   
+  <img src="https://img.shields.io/badge/Born2Code-%23FF6950.svg?style=flat-square&logo=42" alt="Born2Code">
 ## https://tome.app/samir-1fe/template-design-portfolio-cleilx5080d726ffxikcwini6
   
 ## <h2 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77B78&lines=Nice+to+meet+you%2C+;I'm+Samir+Berrichi%2C;Front-end++developer%2C+;I'm+from+Morocco%2C;living+in+Khouribga+%F0%9F%8C%B1;+I%E2%80%99m+currently+studying+at+1337)](https://git.io/typing-svg)
